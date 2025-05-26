@@ -1,0 +1,4 @@
+live sql banco de dados 
+
+
+https://livesql.oracle.com/ords/livesql/s/dd5rlp7gnbkue0tpox05c98wz
